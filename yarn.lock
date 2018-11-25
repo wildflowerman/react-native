@@ -2341,10 +2341,10 @@ eslint-plugin-flowtype@2.43.0:
   dependencies:
     lodash "^4.15.0"
 
-eslint-plugin-jest@21.8.0:
-  version "21.8.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.8.0.tgz#4f3155e2898c1efb0ce548f3e084e07db5e21c07"
-  integrity sha512-u8+tOrVHHAv9SetdzCghLaBrHyaBLx+6surC+A+VfLy7CfXixTvQnJmD/Ym8mDE6e7wPDZWWgsqb3FGAWh7NTw==
+eslint-plugin-jest@21.27.2:
+  version "21.27.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.27.2.tgz#2a795b7c3b5e707df48a953d651042bd01d7b0a8"
+  integrity sha512-0E4OIgBJVlAmf1KfYFtZ3gYxgUzC5Eb3Jzmrc9ikI1OY+/cM8Kh72Ti7KfpeHNeD3HJNf9SmEfmvQLIz44Hrhw==
 
 eslint-plugin-prettier@2.6.0:
   version "2.6.0"
